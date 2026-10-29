@@ -1,0 +1,52 @@
+{
+  "source": "/home/oran/deploy",
+  "archive_bytes": 6548019256,
+  "created_at_asia_shanghai": "20261029-105927",
+  "archive_entries": 121660,
+  "includes_hidden_files": true,
+  "honors_gitignore": false,
+  "encrypted": true,
+  "decryption_verified": true,
+  "archive_filename": "deploy-full-20261029-105927.tar.zst.gpg",
+  "archive_sha256": "78b1738d955bbda38615b294b67ed8e85bd5652611e9f9493623bc562052dd8c",
+  "parts": [
+    {
+      "file": "deploy-full-20261029-105927.tar.zst.gpg.part-001",
+      "bytes": 1073741824,
+      "sha256": "2cf6a0664d22928e9e4f86046ebcc9def325c91c08802a0140aae3b6a175b434"
+    },
+    {
+      "file": "deploy-full-20261029-105927.tar.zst.gpg.part-002",
+      "bytes": 1073741824,
+      "sha256": "d2f81fea0f3989168bcda73c1bd948e603fcb7060df2bd1b1e467f432d3a67f3"
+    },
+    {
+      "file": "deploy-full-20261029-105927.tar.zst.gpg.part-003",
+      "bytes": 1073741824,
+      "sha256": "b9b883231542be0a2f4bdee94b2d613d60bc776da41a29e1cadd404c51283d70"
+    },
+    {
+      "file": "deploy-full-20261029-105927.tar.zst.gpg.part-004",
+      "bytes": 1073741824,
+      "sha256": "4b459ddb19e6d162a4e85d973cb20fba8c47a24ab86bc19c309d5432750ea5df"
+    },
+    {
+      "file": "deploy-full-20261029-105927.tar.zst.gpg.part-005",
+      "bytes": 1073741824,
+      "sha256": "bde017479f51266c030aa35427fa8516325f030077d5347aa3144d4ae87c94bb"
+    },
+    {
+      "file": "deploy-full-20261029-105927.tar.zst.gpg.part-006",
+      "bytes": 1073741824,
+      "sha256": "0f5b3c43c6cbf0ed15ce4b4e98fcec45466ac02808bcb365b03c8561fcad151f"
+    },
+    {
+      "file": "deploy-full-20261029-105927.tar.zst.gpg.part-007",
+      "bytes": 105568312,
+      "sha256": "1a6d6e7bc723b87c72eb46b9f340be048f6e1b9a854c1557f318856e55006797"
+    }
+  ],
+  "key_included": false,
+  "source_archive_format": "POSIX pax tar + zstd + GnuPG AES256",
+  "owner_and_permissions_preserved": true
+}
